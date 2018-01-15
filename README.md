@@ -1,4 +1,4 @@
-# **vrep\_common**
+# **cv\_bridge\_tutorial\_pkg**
 	
 Source code for _Chapter 9_ of the book [Master ROS for Robotic Programming, Second edition](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) source code main repository.
 
